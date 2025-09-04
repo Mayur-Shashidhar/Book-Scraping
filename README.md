@@ -14,7 +14,7 @@ This project demonstrates a complete data pipeline from web scraping to data vis
 ## 📁 Project Structure
 
 ```
-MCSE/
+BookScraping/
 ├── book_scaper.py          # Main web scraping script
 ├── clean_scraper.py        # Data cleaning and preprocessing
 ├── analyze_scraper.py      # Statistical analysis
