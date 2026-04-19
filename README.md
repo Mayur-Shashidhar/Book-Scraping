@@ -2,6 +2,11 @@
 
 A comprehensive web scraping and data analysis project that extracts book information from an online bookstore, cleans the data and provides detailed analytics with visualizations.
 
+## 📖 Course Information
+
+- Course Name : CMathematics for Computer Science and Engineering
+- Course Code : UE24MA242A
+
 ## 🎯 Project Overview
 
 This project demonstrates a complete data pipeline from web scraping to data visualization:
